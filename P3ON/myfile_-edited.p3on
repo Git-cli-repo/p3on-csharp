@@ -1,0 +1,64 @@
+
+    TokenData: {
+        Obj{
+            &name='myjnode',
+            &typ='container',
+            &child{
+                &name='key',
+                &typ='arr.int',
+                &value=[1, 2, 3, 4, 5],
+            },
+            },
+        },
+        Obj{
+            &name='key.settings',
+            &typ='container',
+            &child{
+                &name='key.mapallinobject',
+                &typ='bool',
+                &value=true,
+            },
+            &child{
+                &name='key.arrange',
+                &typ='bool',
+                &value=true,
+            },
+            &child{
+                &name='key.duplicate.keyword',
+                &typ='string',
+                &value='',
+            },
+            &child{
+                &name='key.other',
+                &typ='string',
+                &value='',
+            },
+            },
+        },
+        Obj{
+            &name='typedef   ',
+            &typ='container',
+            &child{
+                &name='mytestingstring',
+                &typ='string',
+                &value='',
+            },
+            &child{
+                &name='mytestingint',
+                &typ='int',
+                &value=0,
+            },
+            &child{
+                &name='mytestingbool',
+                &typ='bool',
+                &value=true,
+            },
+            &child{
+                &name='runcommands',
+                &typ='arr.string',
+                &value=['"key duplicate key2"', '"key2 push [6', ' 7', ' 8"', '"key2 push mytestingint"', '"binarycluster asciidecode mytestingbinary string.decodedbinary"', '"console echo decodedbinary"', '"json.proccesses.compile"'],
+            },
+            },
+        },
+    }
+}

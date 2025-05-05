@@ -1,0 +1,14 @@
+C:\Users\rudra\p3on.proj\P3ON\bin\Debug\net8.0\P3ON.exe
+C:\Users\rudra\p3on.proj\P3ON\bin\Debug\net8.0\P3ON.deps.json
+C:\Users\rudra\p3on.proj\P3ON\bin\Debug\net8.0\P3ON.runtimeconfig.json
+C:\Users\rudra\p3on.proj\P3ON\bin\Debug\net8.0\P3ON.dll
+C:\Users\rudra\p3on.proj\P3ON\bin\Debug\net8.0\P3ON.pdb
+C:\Users\rudra\p3on.proj\P3ON\obj\Debug\net8.0\P3ON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudra\p3on.proj\P3ON\obj\Debug\net8.0\P3ON.AssemblyInfoInputs.cache
+C:\Users\rudra\p3on.proj\P3ON\obj\Debug\net8.0\P3ON.AssemblyInfo.cs
+C:\Users\rudra\p3on.proj\P3ON\obj\Debug\net8.0\P3ON.csproj.CoreCompileInputs.cache
+C:\Users\rudra\p3on.proj\P3ON\obj\Debug\net8.0\P3ON.dll
+C:\Users\rudra\p3on.proj\P3ON\obj\Debug\net8.0\refint\P3ON.dll
+C:\Users\rudra\p3on.proj\P3ON\obj\Debug\net8.0\P3ON.pdb
+C:\Users\rudra\p3on.proj\P3ON\obj\Debug\net8.0\P3ON.genruntimeconfig.cache
+C:\Users\rudra\p3on.proj\P3ON\obj\Debug\net8.0\ref\P3ON.dll

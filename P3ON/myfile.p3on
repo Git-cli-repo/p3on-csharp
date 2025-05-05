@@ -1,0 +1,38 @@
+{
+    TokenData: {
+        Obj{
+            &name='profile',
+            &typ='container',
+            &child{
+                &name='username',
+                &typ='string',
+                &value='TestUser'
+            },
+            &child{
+                &name='age',
+                &typ='int',
+                &value=30
+            },
+            &child{
+                &name='isActive',
+                &typ='bool',
+                &value=true
+            },
+            &child{
+                &name='interests',
+                &typ='arr.string',
+                &value=['Programming', 'Gaming', 'Reading']
+            }
+        },
+        Obj{
+            &name='user',
+            &typ='container',
+            &child{
+                &name='interests',
+                &typ='arr.string',
+                &value=[]
+            } 
+
+        }
+    }
+}
